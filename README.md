@@ -1,2 +1,2 @@
-# increasing-followr
+# increasing-follower
 It will increase your followers
